@@ -1,3 +1,3 @@
-Active zone proteins v1.0
+Active zone proteins v2.0
 
 ELKS
