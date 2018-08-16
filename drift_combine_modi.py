@@ -9,6 +9,8 @@ V.130906
 Takes three arguments, first two are the mdoc files, third one
 is final filename of the (sorted and joined) tomogram.
 
+This is an old version.
+
 Script with the following functions in this particular order:
 
 1.) Take mdoc files and parse tiltangles and single frames filenames
@@ -37,8 +39,6 @@ r1= "./aligned_MotionCor2/"
 ###
 # end of user parameters.
 ###
-
-name = "superman"
 
 # Other regexp
 sfile= r"SubFramePath = (?:.+\\)*(.+)$"
