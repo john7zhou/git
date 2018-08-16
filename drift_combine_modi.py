@@ -38,7 +38,7 @@ r1= "./aligned_MotionCor2/"
 # end of user parameters.
 ###
 
-
+name = "superman"
 
 # Other regexp
 sfile= r"SubFramePath = (?:.+\\)*(.+)$"
