@@ -1,3 +1,3 @@
-Active zone proteins v2.0
+Active zone proteins v3.0
 
-ELKS
+ELKS Supports Ca2+ influx
